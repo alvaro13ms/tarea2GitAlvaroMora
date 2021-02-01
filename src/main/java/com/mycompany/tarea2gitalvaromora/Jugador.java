@@ -21,5 +21,7 @@ public class Jugador {
         this.id = id;
     }
     
-   
+    public static void main(String[] args) {
+       Jugador jugador1=new Jugador("Alvaro",10,13);
+    }
 }
