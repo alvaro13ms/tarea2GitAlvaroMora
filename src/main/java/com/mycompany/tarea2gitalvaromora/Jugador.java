@@ -11,4 +11,7 @@ package com.mycompany.tarea2gitalvaromora;
  */
 public class Jugador {
     
+    String nombre;
+    int votos;
+    int id;
 }
